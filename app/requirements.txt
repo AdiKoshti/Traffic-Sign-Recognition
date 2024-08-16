@@ -1,0 +1,9 @@
+Flask
+Pillow
+numpy
+pyttsx3
+keras==3.3.3
+tensorflow==2.17.0
+googletrans==4.0.0-rc1
+opencv-python-headless
+gtts
